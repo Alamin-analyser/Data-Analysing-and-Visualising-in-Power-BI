@@ -17,6 +17,12 @@ Throughout this learning experience, I have become proficient in transforming co
 
 ![alt text](Powerbi_Image/Powerbi1.png)
 
+![alt text](Powerbi_Image/Powerbi2.png)
+
+![alt text](Powerbi_Image/Powerbi3.png)
+
+![alt text](Powerbi_Image/Powerbi4.png)
+
 
 **Data Source: Just IT, Google, ChatGPT**
 
